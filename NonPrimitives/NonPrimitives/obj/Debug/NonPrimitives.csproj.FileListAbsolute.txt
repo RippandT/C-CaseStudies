@@ -1,0 +1,7 @@
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\NonPrimitives\NonPrimitives\bin\Debug\NonPrimitives.exe.config
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\NonPrimitives\NonPrimitives\bin\Debug\NonPrimitives.exe
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\NonPrimitives\NonPrimitives\bin\Debug\NonPrimitives.pdb
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\NonPrimitives\NonPrimitives\obj\Debug\NonPrimitives.csprojAssemblyReference.cache
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\NonPrimitives\NonPrimitives\obj\Debug\NonPrimitives.csproj.CoreCompileInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\NonPrimitives\NonPrimitives\obj\Debug\NonPrimitives.exe
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\NonPrimitives\NonPrimitives\obj\Debug\NonPrimitives.pdb
