@@ -1,0 +1,6 @@
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\Introduction\Introduction\bin\Release\Introduction.exe.config
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\Introduction\Introduction\bin\Release\Introduction.exe
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\Introduction\Introduction\bin\Release\Introduction.pdb
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\Introduction\Introduction\obj\Release\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\Introduction\Introduction\obj\Release\Introduction.exe
+C:\Users\cobya\Documents\Developer\Program Development\School ProgrammingC#\0) Framework\Introduction\Introduction\obj\Release\Introduction.pdb
