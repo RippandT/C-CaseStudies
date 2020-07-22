@@ -1,0 +1,13 @@
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\bin\Debug\netcoreapp3.1\NameReversal.exe
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\bin\Debug\netcoreapp3.1\NameReversal.deps.json
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\bin\Debug\netcoreapp3.1\NameReversal.runtimeconfig.json
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\bin\Debug\netcoreapp3.1\NameReversal.runtimeconfig.dev.json
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\bin\Debug\netcoreapp3.1\NameReversal.dll
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\bin\Debug\netcoreapp3.1\NameReversal.pdb
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\obj\Debug\netcoreapp3.1\NameReversal.csprojAssemblyReference.cache
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\obj\Debug\netcoreapp3.1\NameReversal.csproj.CoreCompileInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\obj\Debug\netcoreapp3.1\NameReversal.AssemblyInfoInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\obj\Debug\netcoreapp3.1\NameReversal.AssemblyInfo.cs
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\obj\Debug\netcoreapp3.1\NameReversal.dll
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\obj\Debug\netcoreapp3.1\NameReversal.pdb
+C:\Users\cobya\Documents\Developer\Program Development\C#\NameReversal\obj\Debug\netcoreapp3.1\NameReversal.genruntimeconfig.cache

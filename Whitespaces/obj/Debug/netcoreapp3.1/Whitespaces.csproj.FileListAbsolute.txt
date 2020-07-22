@@ -1,0 +1,13 @@
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\bin\Debug\netcoreapp3.1\Whitespaces.exe
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\bin\Debug\netcoreapp3.1\Whitespaces.deps.json
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\bin\Debug\netcoreapp3.1\Whitespaces.runtimeconfig.json
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\bin\Debug\netcoreapp3.1\Whitespaces.runtimeconfig.dev.json
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\bin\Debug\netcoreapp3.1\Whitespaces.dll
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\bin\Debug\netcoreapp3.1\Whitespaces.pdb
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\obj\Debug\netcoreapp3.1\Whitespaces.csprojAssemblyReference.cache
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\obj\Debug\netcoreapp3.1\Whitespaces.csproj.CoreCompileInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\obj\Debug\netcoreapp3.1\Whitespaces.AssemblyInfoInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\obj\Debug\netcoreapp3.1\Whitespaces.AssemblyInfo.cs
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\obj\Debug\netcoreapp3.1\Whitespaces.dll
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\obj\Debug\netcoreapp3.1\Whitespaces.pdb
+C:\Users\cobya\Documents\Developer\Program Development\C#\Whitespaces\obj\Debug\netcoreapp3.1\Whitespaces.genruntimeconfig.cache
